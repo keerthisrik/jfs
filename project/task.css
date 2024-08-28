@@ -1,0 +1,23 @@
+.container {
+  text-align: center;
+  margin-top: 45vh; 
+}
+.container a h3 {
+  margin: 10; 
+}
+.container p {
+  margin: 0; 
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 45vh;
+}
+.container {
+  text-align: center;
+  padding: 30px;
+  border: 1px solid #1d1c1c;
+  border-radius: 12px;
+  box-shadow: 10 10 10  rgba(0, 0, 0, 0.1);
+}
